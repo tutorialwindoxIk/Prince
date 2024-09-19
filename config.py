@@ -12,11 +12,11 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME","Mrkiller_1109")
+OWNER_USERNAME = getenv("OWNER_USERNAME","alone_somu6")
 # Get Your bot username
 BOT_USERNAME = getenv("BOT_USERNAME" , "MRKILLERMUSIC_BOT")
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "MRKILLERMUSIC")
+BOT_NAME = getenv("BOT_NAME" , "Ishuxd")
 #get Your Assistant User name
 ASSUSERNAME = getenv("ASSUSERNAME" , "Sweet_BabyGirl0")
 EVALOP = list(map(int, getenv("EVALOP", "724404977").split()))
@@ -39,7 +39,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/harshil8981/KILLER-MUSIC",
+    "https://github.com/tutorialwindoxIk/Prince",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
