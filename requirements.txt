@@ -17,7 +17,7 @@ pydub
 pycountry
 heroku3
 apscheduler
-motor==3.3.2
+motor==3.6.0
 pillow==9.5.0
 psutil
 wget
@@ -53,3 +53,4 @@ python-telegram-bot==20.7
 img2pdf
 cloudscraper
 pycryptodome
+pymongo>=4.9.0
